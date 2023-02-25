@@ -2,7 +2,7 @@
 
 ## About the project
 
-[Wearing a bike helmet can reduce risk of cycling injury by up to 85%](https://www.cbsnews.com/newyork/news/do-adults-need-to-wear-a-helmet-when-riding-a-bike/), but many adults still choose not to gear up when going biking, skateboarding, or scootering out in the community. This collage, "Use Your Head", is intended to remind adults about the importance of wearing a helmet and directs them to a website on when and how a helmet should be properly worn.
+[Wearing a bike helmet can reduce risk of cycling injury by up to 85%](https://www.cbsnews.com/newyork/news/do-adults-need-to-wear-a-helmet-when-riding-a-bike/), but many adults still choose not to gear up when going biking, skateboarding, or scootering out in the community. This collage, "Use Your Head", is intended to remind adults about the importance of wearing a helmet and directs them to a website describing when and how a helmet should be properly worn.
 
 This is a Visual Argument project developed as a part of [Dr. Ben Miller's Composing Digital Media](https://benmiller314.github.io/cdm2023spring)
 
