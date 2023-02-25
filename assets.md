@@ -18,7 +18,7 @@ Jim De Ramos
 Published on July 24, 2018
 Free to use under the Unsplash License
 
-https://unsplash.com/photos/yhu469kfEv4
+https://unsplash.com/photos/WzStSnhZbfs
 Marat Mazitov
 Published on August 6, 2019
 Free to use under the Unsplash License
